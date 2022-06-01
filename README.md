@@ -7,3 +7,11 @@
 - Validate the form.
 - Insert the data into the database.
 
+## Steps to code the project
+
+1. composer create-project
+2. Set database and run migrations to test database connection working fine
+3. Frontend scaffolding
+4. Models + Migrations + Factory/Seeder
+5. Routing and Views
+6. Submitting the Form; validation, saving in database
